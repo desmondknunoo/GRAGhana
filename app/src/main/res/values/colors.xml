@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#002b58</color>
+    <color name="colorPrimaryDark">#002041</color>
+    <color name="colorAccent">#01a2d8</color>
+    <color name="colorYellow">#ffdd02</color>
+
+
+
+    <!--Home Colours-->
+    <color name="blue">#4340ce</color>
+    <color name="blue_pressed">#3e4790</color>
+
+    <color name="indigo">#390158</color>
+    <color name="indigo_pressed">#301c4b</color>
+
+    <color name="orange">#ff7400</color>
+    <color name="orange_pressed">#dc6d18</color>
+
+    <color name="red">#fb2700</color>
+    <color name="red_pressed">#d4311a</color>
+
+
+
+
+    <!--Logo and other colours-->
+    <color name="yellow">#ffeb00</color>
+    <color name="iconOrange">#FECD08</color>
+    <color name="yellow_orange">#f59b23</color>
+    <color name="white">#fff</color>
+    <color name="black">#222222</color>
+    <color name="oldcolorAccent">#f15a29</color>
+    <color name="ash">#e1e1e1</color>
+    <color name="ashed">#888888</color>
+    <color name="dark_ash">#333333</color>
+    <color name="black_light">#282828</color>
+    <color name="logo_black">#231F20</color>
+
+    <!--OnBoard-->
+
+    <color name="selected_dot">#f15a29</color>
+    <color name="idle_dot">#888</color>
+    <color name="ob_header">#4A4A4A</color>
+    <color name="ob_desc">#4A4A4A</color>
+
+    <color name="semitransparent">#88000000</color>
+
+
+    <color name="grey">#bfbfbf</color>
+    <color name="link_blue">#4d94ff</color>
+    <color name="darkRed">#cc0000</color>
+    <color name="colordarkRed">#cc0000</color>
+
+    <color name="mcam_color_light">#FAFAFA</color>
+    <color name="mcam_color_dark">#424242</color>
+
+
+    <color name="faint_white">#22ffffff</color>
+    <color name="faint_black">#22000000</color>
+    <color name="faint_grey">#22666666</color>
+    <color name="clear">#0000</color>
+
+    <color name="darkwhite">#eeeeee</color>
+    <color name="transparent">#00ffffff</color>
+    <color name="deep_orange">#E17902</color>
+    <color name="dark_orange">#BD5F01</color>
+    <color name="light_orange">#ffe27d18</color>
+    <color name="light_blue">#ff00a2e8</color>
+    <color name="menuButtonColor">#ffea8e44</color>
+
+
+    <color name="green">#39840C</color>
+    <color name="dark_green">#19590C</color>
+
+
+    <color name="violet">#673AB7</color>
+    <color name="violet_trans_80">#BF673AB7</color>
+
+
+    <color name="red_logout">#E95354</color>
+
+    <color name="white_transparent_80">#BFFFFFFF</color>
+
+    <color name="primary_text">#212121</color>
+    <color name="secondary_text">#727272</color>
+    <color name="chrome_grey">#F2F2F2</color>
+    <color name="txt_profile">#2C4058</color>
+
+
+    <!--shimmer-->
+    <color name="demo_light_transparent">#16000000</color>
+    <color name="demo_dark_transparent">#24000000</color>
+
+
+
+
+    <color name="black_25_transparent">#40000000</color>
+
+
+
+    <color name="grey_trans">#c7c7c7</color>
+
+
+</resources>
